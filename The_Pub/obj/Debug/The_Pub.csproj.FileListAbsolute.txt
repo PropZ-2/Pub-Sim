@@ -1,0 +1,14 @@
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\obj\Debug\The_Pub.csproj.AssemblyReference.cache
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\obj\Debug\The_Pub.csproj.CoreCompileInputs.cache
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\bin\Debug\The_Pub.exe.config
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\bin\Debug\The_Pub.exe
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\bin\Debug\The_Pub.pdb
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\obj\Debug\The_Pub.exe
+C:\Users\GraveBallSacks\source\repos\The_Pub\The_Pub\obj\Debug\The_Pub.pdb
+C:\Users\Casper\Desktop\The_Pub\The_Pub\bin\Debug\The_Pub.exe.config
+C:\Users\Casper\Desktop\The_Pub\The_Pub\bin\Debug\The_Pub.exe
+C:\Users\Casper\Desktop\The_Pub\The_Pub\bin\Debug\The_Pub.pdb
+C:\Users\Casper\Desktop\The_Pub\The_Pub\obj\Debug\The_Pub.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\The_Pub\The_Pub\obj\Debug\The_Pub.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\The_Pub\The_Pub\obj\Debug\The_Pub.exe
+C:\Users\Casper\Desktop\The_Pub\The_Pub\obj\Debug\The_Pub.pdb
